@@ -1,0 +1,53 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    
+}
+
+body {
+    text-align: center ;
+    font-size: 18px ;
+    font-family: 'Trebuchet MS', sans-serif; 
+    color: white;
+    background-color: #444444;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+h2 {
+    font-size:20px ;
+}
+ol{
+    display: table;
+    margin: 0 auto;
+}
+div{
+    opacity: 0.5;
+    border-radius: 5%;
+}
+a{
+    color: rgb(255, 245, 253, 0.5);
+}
+a:hover{
+    color: white;
+}
+div:hover{
+opacity: 1;
+}
+
+h2{
+    color:blue;
+    background-color: white;
+}
+.top-5__header {
+    color: blue;
+}
+
+.top-5__header.top-5__header--colorized {
+    color: pink;
+    font-size: 2rem;
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Milky Coffee';
+    src: url('MilkyCoffee.woff2') format('woff2'),
+        url('MilkyCoffee.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

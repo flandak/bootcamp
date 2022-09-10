@@ -1,0 +1,57 @@
+article {
+  width: 50rem;
+  margin: 0 auto;
+}
+
+section {
+  padding: 0.5rem 2rem;
+}
+
+
+body{
+  font-family: 'Milky Coffee';
+  font-size: 18px;
+  background-color: #FFFFFF;
+}
+h1,h2{
+  color: #23226C;
+  font-weight: 900;
+}
+h1{
+  font-size: 240%;
+  text-align: center;
+}
+h2{
+  font-size: 180%;
+}
+p{
+  color: #555555;
+  line-height: 150%;
+  text-align: justify;
+}
+strong{
+  color: black;
+}
+a{
+  
+ color: #6290C3;
+}
+em{
+  font-style: normal;
+  background-color: #D2D6EF;
+}
+.intro, .conclusion{
+  background-color: #D2D6EF;
+}
+a:hover{
+  color: red;
+}
+
+@font-face {
+  font-family: 'Milky Coffee';
+  src: url('MilkyCoffee.woff2') format('woff2'),
+    url('MilkyCoffee.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

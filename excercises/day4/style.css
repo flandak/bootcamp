@@ -1,0 +1,15 @@
+
+body{
+    min-height: 100vh;
+    background-color: aquamarine;
+}
+
+
+.main__logo{
+    background-image: url('/pic/google-logo.png');
+    background-color: aquamarine;
+    background-size: cover;
+    height: 100px;
+    width: 300px;
+    back
+}

@@ -1,0 +1,9 @@
+#top {
+    .logo {
+        img {
+            &:hover {}
+        }
+    }
+
+    .menu {}
+}
